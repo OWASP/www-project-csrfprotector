@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP [GROUPNAME]
 tags: example-tag
-level: 4
+level: 2
 type: example
 auto-migrated: 1
 
