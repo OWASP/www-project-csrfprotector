@@ -39,9 +39,9 @@ CSRF Protection provide protection for:
 ## Damages Mitigated: Cross Site Request Forgery
 CSRF Protector provides mitigation against Cross Site Request Forgery a.k.a CSRF or XSRF.
 
-## Get Involved
-To contribute to the code fork and send a pull to:
- - [Primary Github Repo: PHP Library](https://github.com/mebjas/CSRF-Protector-PHP)
- - [Primary Github Repo: Apache Module](https://github.com/mebjas/CSRF-Protector-PHP)
-
-For discussions, join our mailing list: - [Mailing List](https://lists.owasp.org/mailman/listinfo/owasp-csrfprotector)
+## Major Contributors
+ - [Minhaz](mailto:minhaz@owasp.org)
+ - [Kevin W Wall](mailto:kevin.w.wall@owasp.org)
+ - [Abbas Naderi](mailto:abiusx@owasp.org)
+ - [Jim Manico](mailto:jim.manico@owasp.org)
+ - Abhinav Dahiya
