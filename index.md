@@ -4,7 +4,6 @@ title: OWASP CSRFProtector Project
 tags: php, apache
 level: 2
 type: library
-auto-migrated: 1
 ---
 <!-- rebuild -->
 [![Todo Status](http://todofy.org/b/mebjas/CSRF-Protector-PHP)](http://todofy.org/r/mebjas/CSRF-Protector-PHP) [![Build Status](https://travis-ci.org/mebjas/CSRF-Protector-PHP.svg?branch=master)](https://travis-ci.org/mebjas/CSRF-Protector-PHP) 
