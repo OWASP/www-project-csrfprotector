@@ -1,8 +1,8 @@
 ---
-title: mod_csrfprotector - Apache 2.x.x Modules for mitigating CSRF attacks
+title: "mod_csrfprotector - Apache 2.x.x Modules for mitigating CSRF attacks"
 layout:  null
 tab: true
-order: 1
+order: 2
 tags: apache
 ---
 ### What is mod_csrfprotector?
