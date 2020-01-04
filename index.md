@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP CSRFProtector Project
-tags: php, apache
+tags: php, apache, articles
 level: 2
 type: library
 ---
