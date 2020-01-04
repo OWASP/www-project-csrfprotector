@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP CSRFProtector Project
-tags: csrf, csrf protection, csrf mitigation, owasp csrf, cross site request forgery, xsrf, see surf
+tags: php, apache
 level: 2
 type: example
 auto-migrated: 1
@@ -11,12 +11,13 @@ auto-migrated: 1
 <!-- rebuild -->
 [![Todo Status](http://todofy.org/b/mebjas/CSRF-Protector-PHP)](http://todofy.org/r/mebjas/CSRF-Protector-PHP) [![Build Status](https://travis-ci.org/mebjas/CSRF-Protector-PHP.svg?branch=master)](https://travis-ci.org/mebjas/CSRF-Protector-PHP) 
 
+### Introduction
 OWASP CSRF Protector Project is an effort by a group of developers in securing web applications against Cross Site Request Forgery, providing php library and an Apache Module (to be used differently) for easy mitigation.
 
  - GitHub Repo - [PHP Library](https://github.com/mebjas/CSRF-Protector-PHP)
  - GitHub Repo - [Apache Module](https://github.com/mebjas/CSRF-Protector-PHP)
  
-## What is CSRF Protector?
+### What is CSRF Protector?
 CSRF Protector Project has two parts:
 
  1. Apache 2.x.x Module: An Apache Module which can be easily installed and configured in an Apache Server to protect it from CSRF vulnerabilities.
@@ -24,11 +25,11 @@ CSRF Protector Project has two parts:
 
 Its based on the research paper [A Server and Browser-Transparent CSRF Defense for Web 2.0 Applications - ACSAC 2011](http://www3.cs.stonybrook.edu/~rpelizzi/jcsrf.pdf)
 
-## How to use
+### How to use
  - [See Github wiki - How to use](https://github.com/mebjas/CSRF-Protector-PHP/wiki/How-to-use)
  - [Gihub wiki](https://github.com/mebjas/CSRF-Protector-PHP/wiki/)
  
-## Features Offered
+### Features Offered
 CSRF Protection provide protection for:
 
  - Normal HTML forms (POST/GET)
@@ -36,10 +37,10 @@ CSRF Protection provide protection for:
  - Ajax Requests (XHR)
  - Dynamically generated forms
  
-## Damages Mitigated: Cross Site Request Forgery
+### Damages Mitigated: Cross Site Request Forgery
 CSRF Protector provides mitigation against Cross Site Request Forgery a.k.a CSRF or XSRF.
 
-## Major Contributors
+### Major Contributors
  - [Minhaz](mailto:minhaz@owasp.org)
  - [Kevin W Wall](mailto:kevin.w.wall@owasp.org)
  - [Abbas Naderi](mailto:abiusx@owasp.org)
