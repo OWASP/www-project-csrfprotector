@@ -1,5 +1,6 @@
 ---
-title: "mod_csrfprotector - Apache 2.x.x Modules for mitigating CSRF attacks"
+title: apache
+displaytext: mod_csrfprotector
 layout:  null
 tab: true
 order: 2
