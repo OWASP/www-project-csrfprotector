@@ -26,7 +26,7 @@ CSRF Protector Project has two parts:
 Its based on the research paper [A Server and Browser-Transparent CSRF Defense for Web 2.0 Applications - ACSAC 2011](http://www3.cs.stonybrook.edu/~rpelizzi/jcsrf.pdf)
 
 ### How to use
- - [See Github wiki - How to use](https://github.com/mebjas/CSRF-Protector-PHP/wiki/How-to-use)
+ - [How to use on Github Wiki](https://github.com/mebjas/CSRF-Protector-PHP/wiki/How-to-use)
  - [Gihub wiki](https://github.com/mebjas/CSRF-Protector-PHP/wiki/)
  
 ### Features Offered
