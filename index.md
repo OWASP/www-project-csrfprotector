@@ -38,7 +38,7 @@ CSRF Protection provide protection for:
 CSRF Protector provides mitigation against Cross Site Request Forgery a.k.a CSRF or XSRF.
 
 ### Major Contributors
- - [Minhaz](mailto:minhaz@owasp.org)
+ - [Minhaz](mailto:minhaz@owasp.org) | [minhazav@ - Twitter](https://twitter.com/minhazav)
  - [Kevin W Wall](mailto:kevin.w.wall@owasp.org)
  - [Abbas Naderi](mailto:abiusx@owasp.org)
  - [Jim Manico](mailto:jim.manico@owasp.org)
