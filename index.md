@@ -12,7 +12,7 @@ type: code
 OWASP CSRF Protector Project is an effort by a group of developers in securing web applications against Cross Site Request Forgery, providing php library and an Apache Module (to be used differently) for easy mitigation.
 
  - GitHub Repo - [PHP Library](https://github.com/mebjas/CSRF-Protector-PHP)
- - GitHub Repo - [Apache Module](https://github.com/mebjas/CSRF-Protector-PHP)
+ - GitHub Repo - [Apache Module](https://github.com/mebjas/mod_csrfprotector)
  
 ### What is CSRF Protector?
 CSRF Protector Project has two parts:
