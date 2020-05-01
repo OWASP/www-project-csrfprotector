@@ -1,2 +1,2 @@
 ### Leaders
-* [Minhaz A V](mailto://minhaz@owasp.org)
+* [Minhaz A V](https://minhazav.dev)
