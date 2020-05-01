@@ -7,7 +7,7 @@ order: 1
 tags: php
 ---
 ### What is CSRF Protector PHP library?
-Its a standalone PHP library for mitigating Cross Site Request Forgery (CSRF) vulnerabilities in web applications, which can be used with any existing web application or while developing a new one. [More information available at github wiki](https://github.com/mebjas/CSRF-Protector-PHP/wiki)
+Its a standalone PHP library for mitigating Cross-Site Request Forgery (CSRF) vulnerabilities in web applications, which can be used with any existing web application or while developing a new one. [More information available at Github wiki](https://github.com/mebjas/CSRF-Protector-PHP/wiki)
 
 ### Features Offered
 CSRF Protection provide protection for:
@@ -16,8 +16,8 @@ CSRF Protection provide protection for:
  - Ajax Requests (XHR)
  - Dynamically generated forms
  
-### Damages Mitigated: Cross Site Request Forgery
-CSRF Protector provides mitigation against Cross Site Request Forgery a.k.a CSRF or XSRF.
+### Damages Mitigated: Cross-Site Request Forgery
+CSRF Protector provides mitigation against Cross-Site Request Forgery a.k.a CSRF or XSRF.
 
 ### How to contribute
 To contribute to the code fork and send a pull to the [GitHub Repository](https://github.com/mebjas/CSRF-Protector-PHP).
