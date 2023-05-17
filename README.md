@@ -1,3 +1,5 @@
+This project has been archived. The content remains accessible for historical context.
+
 # OWASP CSRF Protector Project Landing Page
 The OWASP home for the CSRF Protector Project project which can be found at: [www-project-csrfprotector](https://www2.owasp.org/www-project-csrfprotector/).
 
